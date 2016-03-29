@@ -4,7 +4,7 @@ This script check if a file was modified since the last time, with a hash of eac
 
 Example of use (From --help command): 
 
-	Synthax :  ./testmd5.sh -s /folder/to/test/ -d /folder/for/hash/results/ [-e /exclude/folder] [-v] [-f] [-p [md5/sha1/sha256/sha512]]
+	Synthax :  ./spymyfolder.sh -s /folder/to/test/ -d /folder/for/hash/results/ [-e /exclude/folder] [-v] [-f] [-p [md5/sha1/sha256/sha512]]
 
 
 	-s : Source folder to control
